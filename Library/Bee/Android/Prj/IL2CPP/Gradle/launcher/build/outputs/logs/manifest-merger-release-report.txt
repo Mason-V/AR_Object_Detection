@@ -1,0 +1,481 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\38252c1dd50b6c86c0694ee119f5db77\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0a1fef3e953be6c6b2af11fe291349b3\navigation-ui-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\df3c8a1c5b6f9f7717c67dadef4830a5\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b905d332cdb662f993c1099d72571338\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\ebce3d9f542a6f9de9420eb5611cd38e\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8f1d452d6f35d45c7ac2161fec04f418\navigation-fragment-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1faa652175130952616ec1175e4ca38c\navigation-runtime-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f9b1da3d0ca77d2a461b30c181bfa31e\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\7fbeb9cedaaa7600cef9100f450f21b3\navigation-common-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d860965f3d6e5be023ca603a2ed2feaa\navigation-common-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5c2bd363195c21cc7503d4719b04e41c\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8e5e45f42edc5989f2e330742b25e55f\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d09fa57d01baa380c1896a3820d6c596\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8581eef293ed72171ada1f620bf9919f\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b079f7e534002e6a4f90aced442ba1ba\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-80:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\45b92dc75ff7317fcb1ff0c0804d3c86\material-1.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1db2a97880185f41c767df7c79917a40\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\abd312590d787be005a8fc3385e9844c\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8356808dfe0d20e0906ff3a3567383e0\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\dd32beeacec0658bca2b0859d2dd0773\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8efc22faf3c03ec2230e2c00ba9f7a5f\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\2901fd5e3a52b4b1c03f75e2f7d141c5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1dd97bc67fc9ad63e767e3ff30e9b187\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\3622dc0fb0b798b73b290d5c253049b2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6456f35f545c947e673358d4daeb1240\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\36c8afdc41cf2eeee10a7abf17ad0661\lifecycle-livedata-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fead7bc6c2062ca0f1de4d53e199d153\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\82b9f92fec9d0fd5b656b2515b90e697\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcb3c3296282ea96d137a5eae939545f\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6f50662eba7e654fb58b09545c8e1e07\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\c374a2731b7b5c1445953e48955aaf5b\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fb7deb27c84dc1782adbffbb6432e144\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b422ac267a87b1e7e0d2dd3d84b7df8f\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8d08a372b5b77619795967b0fa9c3727\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\74591c926b555aca801dcb81e5344b39\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcdab1bdb0b838a90acb937d346556c2\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\35c4363f7a26f7cd246afde023e0c374\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f511ce2963ae11df70e875c8d3a63ed8\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\a11db7ca90cdfa2d1c1c1faff162aa97\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8354d96d91d2a056e63979b07e06c918\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f56c7118c41daaf950bb3c57ee6fae4e\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5a9b997f7a4a4ee3f1ae264ad6aba681\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b6c3355f2de25174ff6a75064c188eb6\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\4e4a14fbed572727068a7236e2e6d3e1\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f44ce7161f5db89467881dda8c0f8b63\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\55fe324fb0cdd4eeed67104a457ed7d2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f6cb0048e797d4fda7e719b4a3d2026b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:2:1-51:12
+MERGED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:2:1-19:12
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:9:1-31:12
+MERGED from [:unityandroidpermissions:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\548e3f049e43fd4c765edf6ee38a0337\jetified-unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-118
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:119-165
+	android:versionCode
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:166-206
+supports-screens
+ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-78:19
+MERGED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-78:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\45b92dc75ff7317fcb1ff0c0804d3c86\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\45b92dc75ff7317fcb1ff0c0804d3c86\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1db2a97880185f41c767df7c79917a40\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1db2a97880185f41c767df7c79917a40\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:21:5-49:19
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:21:5-49:19
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:25:5-29:19
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:25:5-29:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\38252c1dd50b6c86c0694ee119f5db77\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\38252c1dd50b6c86c0694ee119f5db77\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0a1fef3e953be6c6b2af11fe291349b3\navigation-ui-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0a1fef3e953be6c6b2af11fe291349b3\navigation-ui-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\df3c8a1c5b6f9f7717c67dadef4830a5\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\df3c8a1c5b6f9f7717c67dadef4830a5\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b905d332cdb662f993c1099d72571338\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b905d332cdb662f993c1099d72571338\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\ebce3d9f542a6f9de9420eb5611cd38e\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\ebce3d9f542a6f9de9420eb5611cd38e\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8f1d452d6f35d45c7ac2161fec04f418\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8f1d452d6f35d45c7ac2161fec04f418\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1faa652175130952616ec1175e4ca38c\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1faa652175130952616ec1175e4ca38c\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f9b1da3d0ca77d2a461b30c181bfa31e\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f9b1da3d0ca77d2a461b30c181bfa31e\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\7fbeb9cedaaa7600cef9100f450f21b3\navigation-common-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\7fbeb9cedaaa7600cef9100f450f21b3\navigation-common-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d860965f3d6e5be023ca603a2ed2feaa\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d860965f3d6e5be023ca603a2ed2feaa\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5c2bd363195c21cc7503d4719b04e41c\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5c2bd363195c21cc7503d4719b04e41c\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8e5e45f42edc5989f2e330742b25e55f\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8e5e45f42edc5989f2e330742b25e55f\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d09fa57d01baa380c1896a3820d6c596\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\d09fa57d01baa380c1896a3820d6c596\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8581eef293ed72171ada1f620bf9919f\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8581eef293ed72171ada1f620bf9919f\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b079f7e534002e6a4f90aced442ba1ba\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b079f7e534002e6a4f90aced442ba1ba\jetified-lifecycle-livedata-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\45b92dc75ff7317fcb1ff0c0804d3c86\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\45b92dc75ff7317fcb1ff0c0804d3c86\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1db2a97880185f41c767df7c79917a40\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1db2a97880185f41c767df7c79917a40\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\abd312590d787be005a8fc3385e9844c\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\abd312590d787be005a8fc3385e9844c\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8356808dfe0d20e0906ff3a3567383e0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8356808dfe0d20e0906ff3a3567383e0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\dd32beeacec0658bca2b0859d2dd0773\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\dd32beeacec0658bca2b0859d2dd0773\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8efc22faf3c03ec2230e2c00ba9f7a5f\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8efc22faf3c03ec2230e2c00ba9f7a5f\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\2901fd5e3a52b4b1c03f75e2f7d141c5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\2901fd5e3a52b4b1c03f75e2f7d141c5\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1dd97bc67fc9ad63e767e3ff30e9b187\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\1dd97bc67fc9ad63e767e3ff30e9b187\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\3622dc0fb0b798b73b290d5c253049b2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\3622dc0fb0b798b73b290d5c253049b2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6456f35f545c947e673358d4daeb1240\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6456f35f545c947e673358d4daeb1240\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\36c8afdc41cf2eeee10a7abf17ad0661\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\36c8afdc41cf2eeee10a7abf17ad0661\lifecycle-livedata-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fead7bc6c2062ca0f1de4d53e199d153\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fead7bc6c2062ca0f1de4d53e199d153\jetified-lifecycle-livedata-core-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\82b9f92fec9d0fd5b656b2515b90e697\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\82b9f92fec9d0fd5b656b2515b90e697\lifecycle-livedata-core-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcb3c3296282ea96d137a5eae939545f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcb3c3296282ea96d137a5eae939545f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6f50662eba7e654fb58b09545c8e1e07\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\6f50662eba7e654fb58b09545c8e1e07\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\c374a2731b7b5c1445953e48955aaf5b\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\c374a2731b7b5c1445953e48955aaf5b\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fb7deb27c84dc1782adbffbb6432e144\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fb7deb27c84dc1782adbffbb6432e144\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b422ac267a87b1e7e0d2dd3d84b7df8f\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b422ac267a87b1e7e0d2dd3d84b7df8f\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8d08a372b5b77619795967b0fa9c3727\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8d08a372b5b77619795967b0fa9c3727\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\74591c926b555aca801dcb81e5344b39\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\74591c926b555aca801dcb81e5344b39\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcdab1bdb0b838a90acb937d346556c2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\fcdab1bdb0b838a90acb937d346556c2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\35c4363f7a26f7cd246afde023e0c374\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\35c4363f7a26f7cd246afde023e0c374\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f511ce2963ae11df70e875c8d3a63ed8\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f511ce2963ae11df70e875c8d3a63ed8\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\a11db7ca90cdfa2d1c1c1faff162aa97\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\a11db7ca90cdfa2d1c1c1faff162aa97\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8354d96d91d2a056e63979b07e06c918\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\8354d96d91d2a056e63979b07e06c918\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f56c7118c41daaf950bb3c57ee6fae4e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f56c7118c41daaf950bb3c57ee6fae4e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5a9b997f7a4a4ee3f1ae264ad6aba681\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\5a9b997f7a4a4ee3f1ae264ad6aba681\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b6c3355f2de25174ff6a75064c188eb6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b6c3355f2de25174ff6a75064c188eb6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\4e4a14fbed572727068a7236e2e6d3e1\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\4e4a14fbed572727068a7236e2e6d3e1\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f44ce7161f5db89467881dda8c0f8b63\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f44ce7161f5db89467881dda8c0f8b63\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\55fe324fb0cdd4eeed67104a457ed7d2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\55fe324fb0cdd4eeed67104a457ed7d2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f6cb0048e797d4fda7e719b4a3d2026b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\f6cb0048e797d4fda7e719b4a3d2026b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:5:5-7:41
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:5:5-7:41
+MERGED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:6:5-44
+MERGED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:6:5-44
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:12:5-14:41
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:12:5-14:41
+MERGED from [:unityandroidpermissions:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\548e3f049e43fd4c765edf6ee38a0337\jetified-unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\548e3f049e43fd4c765edf6ee38a0337\jetified-unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-65
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:17:5-65
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-50
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-32
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-47
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-55:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-40
+activity#com.qualcomm.snapdragon.spaces.splashscreen.SplashScreenActivity
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:9-77:20
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:34:9-48:20
+MERGED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:34:9-48:20
+	android:launchMode
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:38:13-42
+	android:noHistory
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:39:13-37
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-36
+	android:configChanges
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:36:13-170
+	android:theme
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:40:13-83
+	android:name
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-92
+intent-filter
+ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-53
+REJECTED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:41:13-47:29
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:28-50
+uses-permission#android.permission.VIBRATE
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:9:22-63
+uses-permission#android.intent.action.CLOSE_SYSTEM_DIALOGS
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:10:5-82
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:10:22-79
+queries
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:12:5-19:15
+MERGED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:15:5-17:15
+MERGED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:15:5-17:15
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:20:5-23:15
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:20:5-23:15
+package#com.qualcomm.qti.spaces.services
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:13:9-68
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:21:9-68
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:13:18-65
+package#com.qualcomm.qti.openxrruntime
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:14:9-66
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:22:9-66
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:22:9-66
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:14:18-63
+intent
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:16:9-18:18
+action#com.qualcomm.qti.openxr.spaces.intent.action.BIND
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:17:13-88
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:17:21-85
+activity#com.qualcomm.snapdragon.spaces.hostcontroller.ControllerActivity
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:22:9-27:61
+	android:label
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:25:13-62
+	android:noHistory
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:26:13-37
+	android:exported
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:24:13-37
+	android:theme
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:23:13-92
+activity#com.qualcomm.snapdragon.spaces.helpers.DRFEmptySecondScreenActivity
+ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:28:9-33:86
+	android:launchMode
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:31:13-42
+	android:noHistory
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:32:13-37
+	android:exported
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from [:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:29:13-95
+uses-permission#org.khronos.openxr.permission.OPENXR
+ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:12:5-76
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:16:5-76
+MERGED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:12:22-73
+uses-permission#org.khronos.openxr.permission.OPENXR_SYSTEM
+ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:13:22-80
+provider
+ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:16:9-118
+	android:authorities
+		ADDED from [:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:16:19-115
+uses-permission#com.qualcomm.qti.qxr.QXRServiceClientPermission
+ADDED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:18:5-87
+	android:name
+		ADDED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:18:22-84
+meta-data#spaces.version
+ADDED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:27:13-42

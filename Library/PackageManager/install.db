@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.qualcomm.qcht.unity.interactions": {
+      "tarball": {
+        "hash": "c8149ca18231",
+        "mtime": 1719313418000,
+        "size": 10976578,
+        "localPath": "C:\\Users\\mason\\Desktop\\TARBALLIES\\OLDBALLS\\com.qualcomm.qcht.unity.interactions-4.1.7.tgz"
+      }
+    },
+    "com.qualcomm.snapdragon.spaces": {
+      "tarball": {
+        "hash": "2dffc8101571",
+        "mtime": 1720135396000,
+        "size": 11213474,
+        "localPath": "C:\\Users\\mason\\Desktop\\TARBALLIES\\OLDBALLS\\com.qualcomm.snapdragon.spaces-0.23.2.tgz"
+      }
+    }
+  }
+}

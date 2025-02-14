@@ -1,0 +1,254 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.AR_OBJECT_DETECTION"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="29"
+9-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-65
+19-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-62
+20
+21    <uses-feature
+21-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-16:35
+22        android:name="android.hardware.camera.ar"
+22-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-50
+23        android:required="true" />
+23-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-32
+24    <uses-feature
+24-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:35
+25        android:name="android.hardware.camera"
+25-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-47
+26        android:required="true" />
+26-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-32
+27    <uses-feature android:glEsVersion="0x00030000" />
+27-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-54
+27-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:19-51
+28
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-67
+29-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:22-64
+30
+31    <uses-feature
+31-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+32        android:name="android.hardware.touchscreen"
+32-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-52
+33        android:required="false" />
+33-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+34    <uses-feature
+34-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-29:36
+35        android:name="android.hardware.touchscreen.multitouch"
+35-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-63
+36        android:required="false" />
+36-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-33
+37    <uses-feature
+37-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:36
+38        android:name="android.hardware.touchscreen.multitouch.distinct"
+38-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-72
+39        android:required="false" />
+39-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-33
+40
+41    <uses-permission android:name="android.permission.VIBRATE" />
+41-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:9:5-66
+41-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:9:22-63
+42    <uses-permission android:name="android.intent.action.CLOSE_SYSTEM_DIALOGS" />
+42-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:10:5-82
+42-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:10:22-79
+43
+44    <queries>
+44-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:12:5-19:15
+45        <package android:name="com.qualcomm.qti.spaces.services" />
+45-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:13:9-68
+45-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:13:18-65
+46        <package android:name="com.qualcomm.qti.openxrruntime" />
+46-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:14:9-66
+46-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:14:18-63
+47
+48        <intent>
+48-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:16:9-18:18
+49            <action android:name="com.qualcomm.qti.openxr.spaces.intent.action.BIND" />
+49-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:17:13-88
+49-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:17:21-85
+50        </intent>
+51
+52        <provider android:authorities="org.khronos.openxr.runtime_broker;org.khronos.openxr.system_runtime_broker" />
+52-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:16:9-118
+52-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:16:19-115
+53    </queries>
+54    <!--
+55  Copyright (c) 2020-2021 The Khronos Group Inc.
+56  SPDX-License-Identifier: Apache-2.0
+57    -->
+58    <uses-permission android:name="org.khronos.openxr.permission.OPENXR" />
+58-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:12:5-76
+58-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:12:22-73
+59    <uses-permission android:name="org.khronos.openxr.permission.OPENXR_SYSTEM" />
+59-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:13:5-83
+59-->[:libopenxr_loader:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\259e18448c5e3890ab9f82d54897058a\jetified-libopenxr_loader\AndroidManifest.xml:13:22-80
+60    <uses-permission android:name="com.qualcomm.qti.qxr.QXRServiceClientPermission" />
+60-->[:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:18:5-87
+60-->[:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:18:22-84
+61
+62    <application
+62-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.5.0-rc01] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\e571290daf8b7782d063855c506a8782\core-1.5.0-rc01\AndroidManifest.xml:24:18-86
+64        android:extractNativeLibs="true"
+64-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:18-50
+65        android:icon="@mipmap/app_icon"
+65-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+66        android:label="@string/app_name" >
+66-->C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+67        <uses-library
+67-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+68            android:name="androidx.window.extensions"
+68-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+69            android:required="false" />
+69-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+70        <uses-library
+70-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+71            android:name="androidx.window.sidecar"
+71-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+72            android:required="false" />
+72-->[androidx.window:window:1.0.0] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\b724688b0ca61f177ba63af28ddd8116\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+73
+74        <activity
+74-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-55:20
+75            android:name="com.unity3d.player.UnityPlayerActivity"
+75-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-66
+76            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+76-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-194
+77            android:hardwareAccelerated="false"
+77-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-48
+78            android:launchMode="singleTask"
+78-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-44
+79            android:resizeableActivity="false"
+79-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-47
+80            android:screenOrientation="landscape"
+80-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-50
+81            android:theme="@style/UnityThemeSelector" >
+81-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-54
+82            <intent-filter>
+82-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-47:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-69
+83-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-77
+85-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:27-74
+86            </intent-filter>
+87
+88            <meta-data
+88-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-51:40
+89                android:name="unityplayer.UnityActivity"
+89-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-57
+90                android:value="true" />
+90-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-37
+91            <meta-data
+91-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:40
+92                android:name="android.notch_support"
+92-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-53
+93                android:value="true" />
+93-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-37
+94        </activity>
+95
+96        <meta-data
+96-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:33
+97            android:name="unity.splash-mode"
+97-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-45
+98            android:value="0" />
+98-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-30
+99        <meta-data
+99-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+100            android:name="unity.splash-enable"
+100-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+101            android:value="True" />
+101-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+102        <meta-data
+102-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:36
+103            android:name="unity.launch-fullscreen"
+103-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-51
+104            android:value="True" />
+104-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-33
+105        <meta-data
+105-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:37
+106            android:name="unity.allow-resizable-window"
+106-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-56
+107            android:value="False" />
+107-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-34
+108        <meta-data
+108-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:50
+109            android:name="notch.config"
+109-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-40
+110            android:value="portrait|landscape" />
+110-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-47
+111
+112        <activity
+112-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:9-77:20
+113            android:name="com.qualcomm.snapdragon.spaces.splashscreen.SplashScreenActivity"
+113-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-92
+114            android:configChanges="locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen|fontScale|keyboard|keyboardHidden"
+114-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:36:13-170
+115            android:exported="true"
+115-->[:unityLibrary] C:\Users\mason\AR_OBJECT_DETECTION\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-36
+116            android:launchMode="standard"
+116-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:38:13-42
+117            android:noHistory="true"
+117-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:39:13-37
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+118-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:40:13-83
+119        </activity>
+120        <activity
+120-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:22:9-27:61
+121            android:name="com.qualcomm.snapdragon.spaces.hostcontroller.ControllerActivity"
+121-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:23:13-92
+122            android:exported="false"
+122-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:24:13-37
+123            android:label="@string/title_activity_controller"
+123-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:25:13-62
+124            android:noHistory="true"
+124-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:26:13-37
+125            android:theme="@style/Theme.SpacesActivities" />
+125-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:27:13-58
+126        <activity
+126-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:28:9-33:86
+127            android:name="com.qualcomm.snapdragon.spaces.helpers.DRFEmptySecondScreenActivity"
+127-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:29:13-95
+128            android:exported="false"
+128-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:30:13-37
+129            android:launchMode="standard"
+129-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:31:13-42
+130            android:noHistory="true"
+130-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:32:13-37
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+131-->[:SpacesActivities:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\91ccc5147fe58772cb2dce7d2b8bc23a\jetified-SpacesActivities\AndroidManifest.xml:33:13-83
+132
+133        <meta-data
+133-->[:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:26:9-28:38
+134            android:name="spaces.version"
+134-->[:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:27:13-42
+135            android:value="0.23.2" />
+135-->[:SpacesServicesHelper:] C:\Users\mason\.gradle\caches\transforms-2\files-2.1\0d76f6db2e27bd227b030b46fbe0b959\jetified-SpacesServicesHelper\AndroidManifest.xml:28:13-35
+136    </application>
+137
+138</manifest>
